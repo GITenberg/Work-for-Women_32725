@@ -1,0 +1,32 @@
+_repo: Work-for-Women_32725
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Manson, George J.
+    gutenberg_agent_id: '36005'
+    url: http://www.gutenberg.org/2009/agents/36005
+description: ''
+gutenberg_issued: '2010-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32725'
+  lccn: 07010129
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Occupations'
+- !lcsh 'Women -- Employment'
+tableOfContents: 'Industrial designing -- Short-hand writing -- Telegraphy -- Feather
+  curling -- Photography -- Professional nursing -- Proof-readers, compositors, and
+  bookbinders -- The drama; lecturers and readers -- Book-agents -- Dress-making;
+  millinery -- Teaching -- Brief notes: market gardening, poultry-raising, bee-keeping,
+  house-keepers, cashiers, button-hole making, floriculture, authorship, type-writing,
+  and working in brass.'
+title: Work for Women
+url: http://www.gutenberg.org/ebooks/32725
